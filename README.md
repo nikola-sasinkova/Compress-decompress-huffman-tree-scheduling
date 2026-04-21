@@ -1,1 +1,1 @@
-# compress-decompress-huffman-tree-scheduling
+# Compress-decompress-huffman-tree-scheduling
